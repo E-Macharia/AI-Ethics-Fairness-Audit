@@ -2,7 +2,7 @@
 
 ## Team Members
 - Evans Macharia 
-- Natsha Winnie
+- Natasha Winnie
 
 ## Project Overview
 This repository contains our submission for the AI Ethics assignment focused on analyzing and mitigating biases in AI systems. The project includes theoretical analysis, case studies, and practical implementation of fairness metrics.
